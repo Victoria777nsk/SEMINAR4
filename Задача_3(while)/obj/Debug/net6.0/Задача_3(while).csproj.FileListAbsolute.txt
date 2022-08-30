@@ -1,0 +1,15 @@
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR4\Задача_3(while)\obj\Debug\net6.0\Задача_3(while).csproj.AssemblyReference.cache
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR4\Задача_3(while)\obj\Debug\net6.0\Задача_3(while).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR4\Задача_3(while)\obj\Debug\net6.0\Задача_3(while).AssemblyInfoInputs.cache
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR4\Задача_3(while)\obj\Debug\net6.0\Задача_3(while).AssemblyInfo.cs
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR4\Задача_3(while)\obj\Debug\net6.0\Задача_3(while).csproj.CoreCompileInputs.cache
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR4\Задача_3(while)\bin\Debug\net6.0\Задача_3(while).exe
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR4\Задача_3(while)\bin\Debug\net6.0\Задача_3(while).deps.json
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR4\Задача_3(while)\bin\Debug\net6.0\Задача_3(while).runtimeconfig.json
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR4\Задача_3(while)\bin\Debug\net6.0\Задача_3(while).dll
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR4\Задача_3(while)\bin\Debug\net6.0\Задача_3(while).pdb
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR4\Задача_3(while)\obj\Debug\net6.0\Задача_3(while).dll
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR4\Задача_3(while)\obj\Debug\net6.0\refint\Задача_3(while).dll
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR4\Задача_3(while)\obj\Debug\net6.0\Задача_3(while).pdb
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR4\Задача_3(while)\obj\Debug\net6.0\Задача_3(while).genruntimeconfig.cache
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR4\Задача_3(while)\obj\Debug\net6.0\ref\Задача_3(while).dll
